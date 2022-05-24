@@ -1,18 +1,17 @@
 # Smart-Home
-Smart home system can control home lights and other electrical devices
-
+Smart home system can control home lights and other electrical devices<br>
 This project can control only local with your smart mobile through local server
 
 
-can control through :
- 	-local web server
-	-physical buttons
+can control through :<br>
+ 	&emsp;-local web server<br>
+	&emsp;-physical buttons<br><br>
   
-features : 
-	- RTC so can shedule tasks and create timers
-	- SD card module so can save states and shedules
-	- serial communiocation so you can connect Unlimited switches
+features : <br>
+	&emsp;- RTC so can shedule tasks and create timers<br>
+	&emsp;- SD card module so can save states and shedules<br>
+	&emsp;- serial communiocation so you can connect Unlimited switches<br><br>
 
-other features :
-	- 12 hour time format in schedule
-	- schedules arranged
+other features :<br>
+	&emsp;- 12 hour time format in schedule<br>
+	&emsp;- schedules arranged<br>
