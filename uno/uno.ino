@@ -5,7 +5,7 @@
 
 JSONVar relay_status; // the current status of relay1
 
-JSONVar switch_status; // Last status of switch
+JSONVar switch_status; // current status of switch
 
 JSONVar last_status; // Last status of switch
 
